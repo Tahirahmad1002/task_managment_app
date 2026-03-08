@@ -21,7 +21,7 @@ A sleek, functional, and high-performance task management application built with
 ### 3. Adding Tasks
 | Task Entry Form |
 |---|
-| ![Add Task](screenshots/add_task.png) |
+| ![Add Task](screenshots/tasks.png) |
 | *Premium Bottom Sheet with Category Selection (Urgent, Work, Personal)* |
 
 ---
