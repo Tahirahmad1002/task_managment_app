@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "285088943630",
+    "firebase_url": "https://tahir1002-8acc5-default-rtdb.firebaseio.com",
+    "project_id": "tahir1002-8acc5",
+    "storage_bucket": "tahir1002-8acc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285088943630:android:22ac3a32693a93e937f65f",
+        "android_client_info": {
+          "package_name": "com.example.empathy_task_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo-2wAOLFXmUpvZWOQq4lYC8ENOjNGnxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
